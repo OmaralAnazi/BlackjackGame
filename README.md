@@ -18,5 +18,5 @@ This guided project within the Scrimba Front-End Developer Program involved crea
 Clone the repository and load `index.html` in a web browser to start playing the game.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://startling-mandazi-868d92.netlify.app/)
 
